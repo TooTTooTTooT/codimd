@@ -4,7 +4,7 @@
   "repository": "https://github.com/TooTTooTTooT/node-js-getting-started",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
-    ],
+}
     "website": "https://github.com/hackmdio/codimd",
     "repository": "https://github.com/hackmdio/codimd",
     "logo": "https://github.com/hackmdio/codimd/raw/master/public/codimd-icon-1024.png",

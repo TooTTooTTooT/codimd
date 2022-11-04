@@ -6,9 +6,9 @@
         "Markdown",
         "Notes"
     ],
-    "website": "https://github.com/hackmdio/codimd",
-    "repository": "https://github.com/hackmdio/codimd",
-    "logo": "https://github.com/hackmdio/codimd/raw/master/public/codimd-icon-1024.png",
+    "website": "https://github.com/TooTTooTTooT/codimd",
+    "repository": "https://github.com/TooTTooTTooT/codimd",
+    "logo": "https://github.com/TooTTooTTooT/codimd/raw/master/public/codimd-icon-1024.png",
     "success_url": "/",
     "env": {
         "NPM_CONFIG_PRODUCTION": {

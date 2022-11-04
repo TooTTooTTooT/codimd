@@ -1,10 +1,10 @@
 {
-    "name": "CodiMD",
-    "description": "Realtime collaborative markdown notes on all platforms",
-    "keywords": [
-        "Collaborative",
-        "Markdown",
-        "Notes"
+  "name": "Node.js Sample",
+  "description": "A barebones Node.js app using Express",
+  "repository": "https://github.com/TooTTooTTooT/node-js-getting-started",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
     ],
     "website": "https://github.com/hackmdio/codimd",
     "repository": "https://github.com/hackmdio/codimd",
